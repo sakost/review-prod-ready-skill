@@ -1,0 +1,24 @@
+# Serena (local tool metadata — user/project specific)
+.serena/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Python caches (in case scripts get added)
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Node (in case scripts get added)
+node_modules/
